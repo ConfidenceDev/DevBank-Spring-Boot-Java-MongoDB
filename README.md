@@ -1,5 +1,5 @@
 # DevBank-Spring-Boot-Java-MongoDB
- Banking server built with spring boot together with mongo databse
+ Banking server built with spring boot with a mongo database
  
 # How to Use
 
